@@ -1,1 +1,10 @@
-<svg width="64" height="32" viewBox="-0.5 -0.5 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"><g transform="translate(-12,0)"><path d="M9.3812 2.04327C7.76937 2.50154 6.2485 3.36519 4.97948 4.63421C1.00684 8.60687 1.00684 15.0478 4.97948 19.0205C8.95213 22.9932 15.3931 22.9932 19.3657 19.0205C20.6429 17.7433 21.5095 16.211 21.9654 14.5876M9.5384 2C8.6321 5.39377 9.51018 9.16492 12.1726 11.8274C14.8351 14.4899 18.6063 15.368 22 14.4617" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" /></g><g transform="translate(12,0)"><path d="M17.5 17.5L19 19M20 12H22M6.5 6.5L5 5M17.5 6.5L19 5M6.5 17.5L5 19M2 12H4M12 2V4M12 20V22M16 12C16 14.2091 14.2091 16 12 16C9.79086 16 8 14.2091 8 12C8 9.79086 9.79086 8 12 8C14.2091 8 16 9.79086 16 12Z" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" /></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g transform="matrix(1,0,0,1,-15.36,0)">
+        <path d="M28.648,3.255C26.585,3.842 24.638,4.947 23.014,6.572C17.929,11.657 17.929,19.901 23.014,24.986C28.099,30.071 36.343,30.071 41.428,24.986C43.063,23.351 44.172,21.39 44.756,19.312M28.849,3.2C27.689,7.544 28.813,12.371 32.221,15.779C35.629,19.187 40.456,20.311 44.8,19.151" style="fill:none;fill-rule:nonzero;stroke:rgb(1,0,255);stroke-width:3.2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,15.36,0)">
+        <path d="M39.04,23.04L40.96,24.96M42.24,16L44.8,16M24.96,8.96L23.04,7.04M39.04,8.96L40.96,7.04M24.96,23.04L23.04,24.96M19.2,16L21.76,16M32,3.2L32,5.76M32,26.24L32,28.8M37.12,16C37.12,18.828 34.828,21.12 32,21.12C29.172,21.12 26.88,18.828 26.88,16C26.88,13.172 29.172,10.88 32,10.88C34.828,10.88 37.12,13.172 37.12,16Z" style="fill:none;fill-rule:nonzero;stroke:rgb(1,0,255);stroke-width:3.2px;"/>
+    </g>
+</svg>

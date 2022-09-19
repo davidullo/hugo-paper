@@ -1,1 +1,21 @@
 /* Place custom css here. */
+.text-black {
+    color: rgb(1 0 255/var(--tw-text-opacity));
+}
+
+.prose-neutral {
+    --tw-prose-headings: #0100FF;
+    --tw-prose-links: #0100FF;
+    --tw-prose-bold: #0100FF;
+    --tw-prose-quotes: #0100FF;
+    --tw-prose-body: #0000ff;
+    
+}
+
+article {
+    color: rgb(1 0 255/var(--tw-text-opacity));
+}
+
+.btn-menu::before, .btn-menu::after {
+    background-color: rgb(1 0 255/var(--tw-bg-opacity));
+}
